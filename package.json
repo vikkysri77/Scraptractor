@@ -1,0 +1,16 @@
+{
+  "name": "cowin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "protractor conf.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "flatted": "^3.1.1",
+    "prompt-sync": "^4.2.0"
+  }
+}
